@@ -1,6 +1,7 @@
-package com.fracta7.crud.model;
+package com.fracta7.crud.school;
 
 import com.fasterxml.jackson.annotation.JsonManagedReference;
+import com.fracta7.crud.student.Student;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;

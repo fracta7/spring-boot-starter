@@ -1,6 +1,5 @@
-package com.fracta7.crud.data.repository;
+package com.fracta7.crud.student;
 
-import com.fracta7.crud.model.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

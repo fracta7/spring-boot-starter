@@ -1,6 +1,7 @@
-package com.fracta7.crud.model;
+package com.fracta7.crud.student;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
+import com.fracta7.crud.school.School;
 import jakarta.persistence.*;
 
 @Entity

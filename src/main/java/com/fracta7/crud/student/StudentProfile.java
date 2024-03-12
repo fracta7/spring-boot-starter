@@ -1,5 +1,6 @@
-package com.fracta7.crud.model;
+package com.fracta7.crud.student;
 
+import com.fracta7.crud.student.Student;
 import jakarta.persistence.*;
 
 @Entity

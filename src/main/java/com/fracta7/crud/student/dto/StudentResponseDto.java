@@ -1,4 +1,4 @@
-package com.fracta7.crud.data.dto;
+package com.fracta7.crud.student.dto;
 
 public record StudentResponseDto(
         String firstName,
